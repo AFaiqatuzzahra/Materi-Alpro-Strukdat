@@ -1,4 +1,4 @@
-## Repository materi algoritma dan struktur data
+## Repository materi algoritma pemrograman dan struktur data
 
 <pre>
 Nama : Afifah Faiqatuzzahra
