@@ -1,3 +1,7 @@
+// Nama: Afifah Faiqatuzzahra
+// NIM: 2311110043
+// S1SD04A
+
 #include <iostream>
 #include <unordered_map>
 
